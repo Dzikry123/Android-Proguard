@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Github List</string>
+    <string name="user_desc_little" tools:keep="@string/user_desc_little">I am Mobile Dev</string>
+    <string name="list_user_github">List Users</string>
+    <string name="follower_tab">Follower</string>
+    <string name="following_tab">Following</string>
+    <string name="title_activity_detail_user">DetailUserActivity</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <string name="about">About Me</string>
+    <string name="myEmail">dzikryhabibie85@gmail.com</string>
+    <string name="myName">Dzikry Habibie Muchtar</string>
+    <string name="favorite_list">Favorite List</string>
+    <!--    notifications-->
+    <string name="notif_title_add">Favorite Add Success</string>
+    <string name="notif_title_delete">Favorite Delete Success</string>
+    <string name="notif_add_message">Add User to you\'re Favorite List </string>
+    <string name="notif_delete_message">Delete User from you\'re Favorite List </string>
+    <string name="notif_subtittle">Manage</string>
+    <string name="title_favorite">Favorite</string>
+
+    <string name="power_connected">Power connected!</string>
+    <string name="power_disconnected">Power disconnected!</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorFav">#FF006F</color>
+    <color name="colorBlue">#3364E1</color>
+    <color name="colorCard" tools:keep="@color/colorCard">#F6F6FD</color>
+</resources>

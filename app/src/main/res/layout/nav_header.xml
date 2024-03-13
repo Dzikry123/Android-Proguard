@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="176dp"
+    android:gravity="bottom"
+    android:padding="16dp"
+    android:background="@drawable/background"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark"
+    tools:ignore="Overdraw"
+    tools:keep="@layout/nav_header">
+
+    <ImageView
+        android:layout_width="98dp"
+        android:layout_height="93dp"
+        android:src="@drawable/ic_launcher_foreground" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Github List Users"
+        android:textColor="@color/white"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="24dp"
+        android:text="dzikryhabibie85@gmail.com"
+        android:textColor="@color/white"
+        android:textSize="14sp" />
+
+</LinearLayout>
